@@ -40,10 +40,10 @@ Before you begin, ensure you have the following installed:
 
 
 
-Run the above Project: - -- Clone or download the zip file. 
-                       - -- Make changes related to your MongoDB database. 
-                       - -- Enter command - npm start 
-                       - -- Go to Postman to check APIs.
+Run the above Project  -  Clone or download the zip file. 
+                       - Make changes related to your MongoDB database. 
+                       - Enter command - npm start 
+                       - Go to Postman to check APIs.
 
 
 ## 🌟 Future Enhancements  
